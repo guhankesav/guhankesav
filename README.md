@@ -14,10 +14,15 @@
 
 
 <hr>
-### Github Stats
-[![Guhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=guhankesav&theme=xcode)](https://git.io/guhankesav)
-<a href="">
+<h3 align="left">Github Stats</h3>
+
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=guhankesav&theme=xcode" alt="guhankesav" /></p>
+
+<hr>
+
+<!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guhankesav&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</a> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhankesav&show_icons=true&theme=dark&locale=en&layout=compact" alt="guhankesav" /></p>
 
