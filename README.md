@@ -13,12 +13,11 @@
 - 📫 How to reach me **guhankesav@gmail.com**
 
 
-<hr>
 <h3 align="left">Github Stats</h3>
+<hr>
 
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=guhankesav&theme=xcode" alt="guhankesav" /></p>
 
-<hr>
 
 <!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guhankesav&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
@@ -26,7 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhankesav&show_icons=true&theme=dark&locale=en&layout=compact" alt="guhankesav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guhankesav&show_icons=true&theme=dark&locale=en" alt="guhankesav" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=guhankesav&show_icons=true&theme=dark&locale=en" alt="guhankesav" /></p>
+
 <hr>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guhankesav&theme=highcontrast" alt="guhankesav" /></p>
 
