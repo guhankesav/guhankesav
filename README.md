@@ -14,6 +14,7 @@
 
 
 <h3 align="left">Github Stats</h3>
+
 <hr>
 
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=guhankesav&theme=xcode" alt="guhankesav" /></p>
@@ -25,9 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhankesav&show_icons=true&theme=dark&locale=en&layout=compact" alt="guhankesav" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=guhankesav&show_icons=true&theme=dark&locale=en" alt="guhankesav" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guhankesav&show_icons=true&theme=dark&locale=en" alt="guhankesav" /></p>
 <hr>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guhankesav&theme=highcontrast" alt="guhankesav" /></p>
-
