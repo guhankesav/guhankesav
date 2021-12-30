@@ -14,6 +14,9 @@
 
 <hr>
 
+# Project blogs :
+Yoga-Pose-Estimator  ->  https://guhankesav.medium.com/yoga-pose-estimator-e40e8eec78f6
+
 
 <h3 align="left">Contribution last month</h3>
 
