@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guhan </h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">Passionate computer science student from India</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guhankesav&label=Profile%20views&color=0e75b6&style=flat" alt="guhankesav" /> </p>
 
